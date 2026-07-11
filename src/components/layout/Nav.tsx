@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import Image from "next/image";
 import { usePathname } from "next/navigation";
 import { useState } from "react";
 import { cn } from "@/lib/utils";
@@ -30,9 +31,9 @@ export function Nav({ onSearchOpen }: NavProps) {
     <header className="site-header">
       <div className="page-wrap">
         <div className="site-header-inner">
-         <Link href="/" className="flex items-center">
-           <img src="/logo-header.png" alt="INSNS" className="h-16 w-auto" />
-         </Link>
+        <Link href="/" className="flex items-center">
+          <Image src="/logo-header.png" alt="INSNS" width={128} height={64} className="h-16 w-auto" />
+        </Link>
 
           <nav>
             <ul className="nav-list">

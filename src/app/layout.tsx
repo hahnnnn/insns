@@ -48,7 +48,7 @@ export default function RootLayout({
           rel="alternate"
           type="application/rss+xml"
           title="网络社会不研究所 RSS Feed"
-          href="/rss.xml"
+          href="/insns/rss.xml"
         />
       </head>
       <body className="min-h-screen flex flex-col">
