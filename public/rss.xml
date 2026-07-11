@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>网络社会不研究所</title>
+    <link>https://notstudying.network</link>
+    <description>Institute of Not Studying Network Society — Researching Everything Except Network Society.</description>
+    <language>zh-cn</language>
+    <atom:link href="https://notstudying.network/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>恨亦长久</title>
+      <link>https://notstudying.network/journal/hen-yi-chang-jiu</link>
+      <guid>https://notstudying.network/journal/hen-yi-chang-jiu</guid>
+      <pubDate>Sun, 12 Jul 2026 00:00:00 GMT</pubDate>
+      <description>Love is heavier than hate. But hate lasts longer.——题记</description>
+    </item>
+    <item>
+      <title>小公主</title>
+      <link>https://notstudying.network/journal/xiao-gong-zhu</link>
+      <guid>https://notstudying.network/journal/xiao-gong-zhu</guid>
+      <pubDate>Sun, 12 Jul 2026 00:00:00 GMT</pubDate>
+      <description>高士明与黄孙权在美院的日常</description>
+    </item>
+    <item>
+      <title>重读《景观社会》——短视频时代的 Debord</title>
+      <link>https://notstudying.network/reviews/society-spectacle</link>
+      <guid>https://notstudying.network/reviews/society-spectacle</guid>
+      <pubDate>Sun, 03 May 2026 00:00:00 GMT</pubDate>
+      <description>Guy Debord 的经典分析在今天意味着什么？</description>
+    </item>
+    <item>
+      <title>取消论坛</title>
+      <link>https://notstudying.network/projects/unconference</link>
+      <guid>https://notstudying.network/projects/unconference</guid>
+      <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+      <description>&gt;</description>
+    </item>
+    <item>
+      <title>摸鱼研究</title>
+      <link>https://notstudying.network/research/fish-study</link>
+      <guid>https://notstudying.network/research/fish-study</guid>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
+      <description>对数字劳动中的延迟、等待、挂机与逃逸进行长期观察。</description>
+    </item>
+    <item>
+      <title>《关于没有研究网络社会的研究》</title>
+      <link>https://notstudying.network/publications/on-not-studying</link>
+      <guid>https://notstudying.network/publications/on-not-studying</guid>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 GMT</pubDate>
+      <description>一份关于不研究的方法论考察。</description>
+    </item>
+    <item>
+      <title>评《The Stack: On Software and Sovereignty》</title>
+      <link>https://notstudying.network/reviews/stack-on-software</link>
+      <guid>https://notstudying.network/reviews/stack-on-software</guid>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 GMT</pubDate>
+      <description>Benjamin Bratton 的宏大叙事：行星尺度计算的地层学。</description>
+    </item>
+    <item>
+      <title>评《数字经济的阴影》</title>
+      <link>https://notstudying.network/reviews/digital-economy-shadows</link>
+      <guid>https://notstudying.network/reviews/digital-economy-shadows</guid>
+      <pubDate>Sun, 25 Jan 2026 00:00:00 GMT</pubDate>
+      <description>Robert Mejia 论平台经济背后的不可见劳动。</description>
+    </item>
+    <item>
+      <title>无架构暴政</title>
+      <link>https://notstudying.network/research/no-architecture-tyranny</link>
+      <guid>https://notstudying.network/research/no-architecture-tyranny</guid>
+      <pubDate>Tue, 20 Jan 2026 00:00:00 GMT</pubDate>
+      <description>关于去中心化组织如何重新形成权力结构。</description>
+    </item>
+    <item>
+      <title>评《The Undercommons: Fugitive Planning &amp; Black Study》</title>
+      <link>https://notstudying.network/reviews/undercommons-fugitive</link>
+      <guid>https://notstudying.network/reviews/undercommons-fugitive</guid>
+      <pubDate>Sat, 08 Nov 2025 00:00:00 GMT</pubDate>
+      <description>Moten 与 Harney 的逃逸哲学：在被大学驱逐之前先离开它。</description>
+    </item>
+    <item>
+      <title>网络社会不研究</title>
+      <link>https://notstudying.network/research/network-society-not-studying</link>
+      <guid>https://notstudying.network/research/network-society-not-studying</guid>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 GMT</pubDate>
+      <description>我们持续研究所有无需研究网络社会即可理解的问题。</description>
+    </item>
+    <item>
+      <title>评《Protocol: How Control Exists after Decentralization》</title>
+      <link>https://notstudying.network/reviews/protocol-control</link>
+      <guid>https://notstudying.network/reviews/protocol-control</guid>
+      <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
+      <description>Alexander Galloway 论协议作为分布式时代的控制形式。</description>
+    </item>
+    <item>
+      <title>《反生产力导论》</title>
+      <link>https://notstudying.network/publications/intro-to-counter-productivity</link>
+      <guid>https://notstudying.network/publications/intro-to-counter-productivity</guid>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 GMT</pubDate>
+      <description>对效率神话的谱系学考察。</description>
+    </item>
+    <item>
+      <title>评《A Hacker Manifesto》</title>
+      <link>https://notstudying.network/reviews/hacker-manifesto</link>
+      <guid>https://notstudying.network/reviews/hacker-manifesto</guid>
+      <pubDate>Thu, 15 May 2025 00:00:00 GMT</pubDate>
+      <description>McKenzie Wark 论信息时代的新阶级结构。</description>
+    </item>
+    <item>
+      <title>阅读室计划</title>
+      <link>https://notstudying.network/projects/reading-room</link>
+      <guid>https://notstudying.network/projects/reading-room</guid>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 GMT</pubDate>
+      <description>一个无规则的阅读空间。没有讨论群，没有读书会，没有笔记分享，没有打卡。</description>
+    </item>
+  </channel>
+</rss>
